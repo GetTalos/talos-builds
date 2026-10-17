@@ -1,5 +1,5 @@
 {
-  "build": 32,
-  "apkUrl": "https://appdistribution.firebase.google.com/testerapps/1:232949063110:android:c8ca09004b5d67251026c7",
-  "notes": "1.0.1+32"
+  "build": 33,
+  "apkUrl": "https://github.com/GetTalos/talos-builds/releases/download/build-33/talos-develop-33.apk",
+  "notes": "1.0.1+33"
 }
