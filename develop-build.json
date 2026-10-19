@@ -1,5 +1,6 @@
 {
-  "build": 37,
-  "apkUrl": "https://github.com/GetTalos/talos-builds/releases/download/build-37/talos-develop-37.apk",
-  "notes": "1.0.1+37"
+  "build": 38,
+  "apkUrl": "https://github.com/GetTalos/talos-builds/releases/download/build-38/talos-develop-38.apk",
+  "notes": "1.0.1+38",
+  "sizeMb": 35
 }
