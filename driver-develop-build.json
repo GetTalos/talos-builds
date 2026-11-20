@@ -1,6 +1,6 @@
 {
-  "build": 5,
-  "apkUrl": "https://github.com/GetTalos/talos-builds/releases/download/driver-build-5/talos-driver-develop-5.apk",
+  "build": 6,
+  "apkUrl": "https://github.com/GetTalos/talos-builds/releases/download/driver-build-6/talos-driver-develop-6.apk",
   "notes": "",
   "sizeMb": 30
 }
