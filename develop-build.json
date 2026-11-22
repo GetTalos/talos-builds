@@ -1,6 +1,6 @@
 {
-  "build": 52,
-  "apkUrl": "https://github.com/GetTalos/talos-builds/releases/download/build-52/talos-develop-52.apk",
-  "notes": "1.0.2+52",
+  "build": 54,
+  "apkUrl": "https://github.com/GetTalos/talos-builds/releases/download/build-54/talos-develop-54.apk",
+  "notes": "1.0.3+54",
   "sizeMb": 38
 }
